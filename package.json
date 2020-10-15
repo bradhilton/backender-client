@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/bradhilton/backender-client#readme",
   "devDependencies": {
+    "backender-core": "^1.0.0",
     "typescript": "4.0.3"
   },
   "prettier": {

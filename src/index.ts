@@ -1,4 +1,5 @@
-import api, { AnyModel } from './api'
+import type { AnyModel } from 'backender-core'
+import api from './api'
 
 type ModelClient<Model> = {
   all(): Promise<Model[]>
